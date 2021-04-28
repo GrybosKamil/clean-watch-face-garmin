@@ -1,0 +1,45 @@
+<layout id="WatchFace">
+    <text-area id="BatteryLabel"
+        text="" 
+        x="center" 
+        y="5%" 
+        width="50%"
+        height="10%" 
+        justification="Graphics.TEXT_JUSTIFY_CENTER" 
+        color="#000000"
+        >
+        <fonts>
+            <font>Graphics.FONT_MEDIUM</font>
+            <font>Graphics.FONT_XTINY</font>
+        </fonts>
+    </text-area>
+
+    <text-area id="TimeLabel"
+        text="" 
+        x="center"
+        y="center"
+        width="50%" 
+        height="30%" 
+        justification="Graphics.TEXT_JUSTIFY_CENTER" 
+        color="#c21808"
+        >
+        <fonts>
+            <font>Gfx.FONT_LARGE</font>
+        </fonts>
+    </text-area>
+    
+    <text-area id="DateLabel"
+        text="" 
+        x="center" 
+        y="85%" 
+        width="50%" 
+        height="10%" 
+        justification="Graphics.TEXT_JUSTIFY_CENTER" 
+        color="#add8e6"
+        >
+        <fonts>
+            <font>Graphics.FONT_MEDIUM</font>
+            <font>Graphics.FONT_XTINY</font>
+        </fonts>
+    </text-area>
+</layout>

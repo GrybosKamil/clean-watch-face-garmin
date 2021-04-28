@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceApp.mc" id="4" lineNum="9" pc="268435479" symbol="onStart"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceApp.mc" id="5" lineNum="12" pc="268435484" symbol="onStop"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceApp.mc" id="6" lineNum="15" pc="268435489" symbol="getInitialView"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceApp.mc" id="6" lineNum="16" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="8" lineNum="12" pc="268435531" symbol="initialize"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="8" lineNum="13" pc="268435535" symbol="initialize"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="9" lineNum="16" pc="268435554" symbol="onLayout"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="9" lineNum="17" pc="268435558" symbol="onLayout"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="10" lineNum="20" pc="268435596" symbol="onShow"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="11" lineNum="23" pc="268435601" symbol="onUpdate"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="11" lineNum="24" pc="268435605" symbol="onUpdate"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="11" lineNum="25" pc="268435617" symbol="onUpdate"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="11" lineNum="26" pc="268435629" symbol="onUpdate"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="11" lineNum="28" pc="268435641" symbol="onUpdate"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="12" lineNum="31" pc="268435662" symbol="updateTimeLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="12" lineNum="32" pc="268435666" symbol="updateTimeLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="12" lineNum="33" pc="268435683" symbol="updateTimeLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="12" lineNum="37" pc="268435757" symbol="updateTimeLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="12" lineNum="38" pc="268435781" symbol="updateTimeLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="13" lineNum="41" pc="268435796" symbol="updateDateLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="13" lineNum="42" pc="268435800" symbol="updateDateLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="13" lineNum="43" pc="268435844" symbol="updateDateLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="13" lineNum="48" pc="268435920" symbol="updateDateLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="13" lineNum="49" pc="268435944" symbol="updateDateLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="14" lineNum="52" pc="268435959" symbol="updateBatteryLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="14" lineNum="53" pc="268435963" symbol="updateBatteryLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="14" lineNum="54" pc="268435980" symbol="updateBatteryLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="14" lineNum="55" pc="268435990" symbol="updateBatteryLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="14" lineNum="56" pc="268436014" symbol="updateBatteryLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="14" lineNum="57" pc="268436039" symbol="updateBatteryLabel"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="15" lineNum="60" pc="268436065" symbol="formatBatteryStatusValue"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="15" lineNum="61" pc="268436069" symbol="formatBatteryStatusValue"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="15" lineNum="62" pc="268436080" symbol="formatBatteryStatusValue"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="15" lineNum="64" pc="268436089" symbol="formatBatteryStatusValue"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="16" lineNum="68" pc="268436141" symbol="getBatteryStatusColor"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="16" lineNum="69" pc="268436145" symbol="getBatteryStatusColor"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="16" lineNum="70" pc="268436156" symbol="getBatteryStatusColor"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="16" lineNum="72" pc="268436172" symbol="getBatteryStatusColor"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="16" lineNum="73" pc="268436183" symbol="getBatteryStatusColor"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="16" lineNum="75" pc="268436199" symbol="getBatteryStatusColor"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="16" lineNum="76" pc="268436210" symbol="getBatteryStatusColor"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="16" lineNum="78" pc="268436226" symbol="getBatteryStatusColor"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="16" lineNum="79" pc="268436237" symbol="getBatteryStatusColor"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="16" lineNum="81" pc="268436253" symbol="getBatteryStatusColor"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="17" lineNum="84" pc="268436267" symbol="getBatteryStatusFont"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="17" lineNum="85" pc="268436271" symbol="getBatteryStatusFont"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="17" lineNum="86" pc="268436282" symbol="getBatteryStatusFont"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="17" lineNum="88" pc="268436298" symbol="getBatteryStatusFont"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="17" lineNum="89" pc="268436309" symbol="getBatteryStatusFont"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="17" lineNum="91" pc="268436325" symbol="getBatteryStatusFont"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="18" lineNum="94" pc="268436339" symbol="onHide"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="19" lineNum="97" pc="268436344" symbol="onExitSleep"/>
+        <entry filename="/home/grybos/Projects/smartwatches/clean-watch-face-garmin/source/CleanWatchFaceView.mc" id="20" lineNum="100" pc="268436349" symbol="onEnterSleep"/>
+        <entry filename="Rez" id="26" lineNum="15" pc="268436354" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="17" pc="268436366" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="18" pc="268436565" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="19" pc="268436744" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="21" pc="268436943" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="15" method="true" symbol="updateTimeLabel"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="16" method="true" symbol="updateDateLabel"/>
+        <entry field="true" id="14" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="20" method="true" symbol="getBatteryStatusFont"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="10" object="true" symbol="CleanWatchFaceView"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="18" method="true" symbol="formatBatteryStatusValue"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="9" object="true" symbol="CleanWatchFaceApp"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="19" method="true" symbol="getBatteryStatusColor"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="17" method="true" symbol="updateBatteryLabel"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry arg="true" endPc="268435596" name="dc" stackId="1" startPc="268435554"/>
+        <entry arg="true" endPc="268435662" name="dc" stackId="1" startPc="268435601"/>
+        <entry endPc="268435795" name="view" stackId="3" startPc="268435666"/>
+        <entry endPc="268435795" name="timeString" stackId="2" startPc="268435666"/>
+        <entry endPc="268435795" name="clockTime" stackId="1" startPc="268435666"/>
+        <entry endPc="268435958" name="view" stackId="3" startPc="268435800"/>
+        <entry endPc="268435958" name="today" stackId="1" startPc="268435800"/>
+        <entry endPc="268435958" name="dateString" stackId="2" startPc="268435800"/>
+        <entry endPc="268436064" name="view" stackId="3" startPc="268435963"/>
+        <entry endPc="268436064" name="stats" stackId="1" startPc="268435963"/>
+        <entry endPc="268436064" name="pwr" stackId="2" startPc="268435963"/>
+        <entry arg="true" endPc="268436141" name="pwr" stackId="1" startPc="268436065"/>
+        <entry arg="true" endPc="268436267" name="pwr" stackId="1" startPc="268436141"/>
+        <entry arg="true" endPc="268436339" name="pwr" stackId="1" startPc="268436267"/>
+        <entry endPc="268436980" name="rez_cmp_local_textarea_TimeLabel" stackId="3" startPc="268436366"/>
+        <entry endPc="268436980" name="rez_cmp_local_textarea_DateLabel" stackId="4" startPc="268436366"/>
+        <entry endPc="268436980" name="rez_cmp_local_textarea_BatteryLabel" stackId="2" startPc="268436366"/>
+        <entry arg="true" endPc="268436981" name="dc" stackId="1" startPc="268436354"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="150" parentId="globals" symbolId="CleanWatchFaceApp" type="class"/>
+        <dataEntry offset="221" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="300" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="339" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="370" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="401" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="440" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="471" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="510" parentId="globals" symbolId="CleanWatchFaceView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="CleanWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="CleanWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="CleanWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="CleanWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CleanWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="CleanWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="CleanWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="CleanWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateTimeLabel" parent="CleanWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateDateLabel" parent="CleanWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateBatteryLabel" parent="CleanWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="formatBatteryStatusValue" parent="CleanWatchFaceView">
+            <param id="pwr"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getBatteryStatusColor" parent="CleanWatchFaceView">
+            <param id="pwr"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getBatteryStatusFont" parent="CleanWatchFaceView">
+            <param id="pwr"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="CleanWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="CleanWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="CleanWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
